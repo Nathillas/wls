@@ -2,7 +2,8 @@
 # Instalación de Debian WSL
 
 - Nos muestra una lista de distribuciones Linux para descargar.
-![captura](/img/captura5.png)
+  > wsl -l -o
+  ![captura](/img/captura5.png)
 
 - Elegimos Debian.
 
