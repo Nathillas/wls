@@ -1,4 +1,5 @@
 # Windows Subsystem Linux (WSL) 🐧
+![Imagen portada](img/descarga.png)
 
 ## Descripción
 Este repositorio contiene información y comandos útiles relacionados con el Windows Subsystem Linux (WSL) en entornos Windows.
