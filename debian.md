@@ -3,7 +3,8 @@
 
 - Nos muestra una lista de distribuciones Linux para descargar.
   > wsl -l -o
-  ![captura](/img/captura5.png)
+
+![captura](/img/captura5.png)
 
 - Elegimos Debian.
 
