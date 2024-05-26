@@ -19,3 +19,5 @@ Una vez instalado, debemos crear un usuario y constraseña. No tiene por que ser
 
 
 Una vez la instalación completada, debemos reiniciar para que se actualicen los cambios.
+
+[Atrás](README.md)
