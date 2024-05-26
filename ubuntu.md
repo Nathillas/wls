@@ -12,6 +12,7 @@ Una vez instalado, debemos crear un usuario y constraseña. No tiene por que ser
 
 ![Imagen](img/captura3.png)
 
+![Imagen](img/captura6.png)
 
 
 Una vez la instalación completada, debemos reiniciar para que se actualicen los cambios.
