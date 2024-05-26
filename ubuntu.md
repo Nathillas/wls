@@ -1,6 +1,7 @@
 # Instalación de Ubuntu WSL
 
 > wls --install
+
 Este comando habilita las características necesarias para ejecutar WSL e instalará la distribución Ubuntu de Linux.
 
 
