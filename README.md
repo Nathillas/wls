@@ -11,7 +11,7 @@ Este repositorio contiene información y comandos útiles relacionados con el Wi
 3. [Instalación de Debian WSL](debian.md)
 5. [Procesos asociados WSL](procesos.md)
 
-## Referencias
+## Referencias📚
 
 - [YouTube](https://www.youtube.com)
 - [ChatGPT](https://chatgpt.com)
