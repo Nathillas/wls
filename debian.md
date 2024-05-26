@@ -23,5 +23,6 @@
 
 A continuacion les muestro un video de todos los pasos a seguir:
 
-![Video Tutorial WSL Debian](https://youtu.be/njylpAOhonY)
+[Video Tutorial WSL Debian](https://youtu.be/njylpAOhonY)
+
 
