@@ -1,6 +1,6 @@
-## Procesos asociados WSL
+# Procesos asociados WSL
 
-WSL está compuesto por varios procesos que trabajan juntos para proporcionar la funcionalidad de ejecutar distribuciones Linux en Windows. Algunos de los procesos asociados son:
+**WSL** está compuesto por varios procesos que trabajan juntos para proporcionar la funcionalidad de ejecutar distribuciones Linux en Windows. Algunos de los procesos asociados son:
 
 - **LxssManager.exe:** Proceso principal que gestiona las distribuciones de Linux. Responsable de iniciar, detener y gestionar las instancias de las distribuciones Linux.
 
